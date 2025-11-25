@@ -35,11 +35,11 @@ Google Colab
 
 🗂️ Estrutura do Repositório
 
-├── README.md          # Documentação do projeto
+├── README.md                 # Documentação do projeto
 
-├── AluraStoreBrasil.ipynb   # Notebook completo da análise
+├── AluraStoreBrasil.ipynb         # Notebook completo da análise
 
-└── dados/             # Bases de dados (carregadas via URL no notebook)
+└── dados/                   # Bases de dados (carregadas via URL no notebook)
 
 🧩 Etapas da Análise
 1. Importação e Preparação dos Dados
@@ -218,4 +218,5 @@ As análises, tabelas e gráficos serão gerados automaticamente
 
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 Estudante: Eryck Barcelos
+
 
