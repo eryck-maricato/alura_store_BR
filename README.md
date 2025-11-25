@@ -35,11 +35,11 @@ Google Colab
 
 🗂️ Estrutura do Repositório
 
-├── README.md                 # Documentação do projeto
+├── README.md  # Documentação do projeto
 
-├── AluraStoreBrasil.ipynb         # Notebook completo da análise
+├── AluraStoreBrasil.ipynb  # Notebook completo da análise
 
-└── dados/                   # Bases de dados (carregadas via URL no notebook)
+└── dados/  # Bases de dados (carregadas via URL no notebook)
 
 🧩 Etapas da Análise
 1. Importação e Preparação dos Dados
@@ -55,19 +55,10 @@ Tratamento de valores nulos
 Criação de um dicionário para facilitar análises automáticas
 
 2. Análises Realizadas
+   
 🔹 2.1 Faturamento Total por Loja
 
 O faturamento foi calculado somando o valor de todas as vendas de cada loja.
-
-Resultados:
-
-Loja 1: R$ 1.534.509,12
-
-Loja 2: R$ 1.488.459,06
-
-Loja 3: R$ 1.464.025,03
-
-Loja 4: R$ 1.384.497,58 (menor faturamento)
 
 🔹 2.2 Categorias mais e menos vendidas
 
@@ -76,35 +67,12 @@ Também foi gerada uma pizza consolidada juntando as vendas das quatro lojas.
 
 🔹 2.3 Avaliação Média das Lojas
 
-Resultados:
-
-Loja 1: 3,98
-
-Loja 2: 4,04
-
-Loja 3: 4,05
-
-Loja 4: 4,00
-
-Loja 3 possui a melhor avaliação, enquanto a Loja 1 apresenta a pior.
-
 🔹 2.4 Produtos mais e menos vendidos
 
 Foi gerado um ranking completo para cada loja, além de gráficos horizontais com o Top 5 produtos.
 
 🔹 2.5 Frete Médio
 
-Resultados:
-
-Loja 1: R$ 34,69
-
-Loja 2: R$ 33,62
-
-Loja 3: R$ 33,07
-
-Loja 4: R$ 31,28 (melhor frete)
-
-Apesar do frete competitivo, o baixo faturamento da Loja 4 ainda é um problema crítico.
 
 📈 Visualizações Incluídas
 
@@ -218,5 +186,6 @@ As análises, tabelas e gráficos serão gerados automaticamente
 
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 Estudante: Eryck Barcelos
+
 
 
