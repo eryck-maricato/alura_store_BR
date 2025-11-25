@@ -22,9 +22,10 @@ Para apoiar essa decisão, realizamos uma análise completa envolvendo:
 - Google Colab
 
 🗂️ Estrutura do Repositório
- ├── README.md                  # Documentação do projeto
- ├── AluraStoreBR.ipynb         # Notebook completo da análise
- └── dados/                     # Bases de dados (carregadas via URL no notebook)
+
+ ├── README.md         # Documentação do projeto
+ ├── AluraStoreBR.ipynb   # Notebook completo da análise
+ └── dados/             # Bases de dados (carregadas via URL no notebook)
 
 🧩 4. Etapas da Análise
 
@@ -134,6 +135,7 @@ A análise espacial adicionou valor ao projeto ao revelar padrões que não seri
 🤝 Autor
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 Estudante: Eryck Maricato
+
 
 
 
