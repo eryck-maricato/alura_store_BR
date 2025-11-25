@@ -113,49 +113,40 @@ O heatmap evidencia:
 Esse gráfico é especialmente útil para avaliar o potencial de mercado por zona geográfica.
 
 📌 7.4 Mapa Interativo
-
 Para uma visualização ainda mais rica, foi incluída uma versão opcional usando a biblioteca Folium, que permite visualizar as vendas em um mapa interativo real.
-
 Com esse recurso é possível:
 
-- Navegar pelo mapa
-  
-- Aproximar regiões específicas
-  
-- Visualizar a distribuição exata das vendas
-  
+- Navegar pelo mapa  
+- Aproximar regiões específicas  
+- Visualizar a distribuição exata das vendas  
 - Comparar alcance geográfico entre lojas
 
 📌 7.5 Relação entre Localização e Desempenho
-
 Além dos gráficos, foram realizados testes relacionando geografia com desempenho:
 
-- Faturamento por região: verificou-se que determinadas áreas apresentam maior potencial comercial.
-  
-- Avaliação por região: algumas regiões concentram avaliações melhores, sugerindo impacto cultural, logístico ou de concorrência.
-  
+- Faturamento por região: verificou-se que determinadas áreas apresentam maior potencial comercial.  
+- Avaliação por região: algumas regiões concentram avaliações melhores, sugerindo impacto cultural, logístico ou de concorrência.  
 - Padrões por loja: identificou-se que cada loja tende a performar melhor em regiões específicas.
+  
 
 ✔️ Conclusão da Análise Geográfica
-
 A análise espacial adicionou valor ao projeto ao revelar padrões que não seriam percebidos somente com dados tradicionais. Embora seja uma etapa opcional, ela enriquece a compreensão do comportamento dos clientes e da atuação territorial das lojas, contribuindo para decisões estratégicas mais completas.
 
+
+
 🚀 Como Executar o Projeto
+1. Abra o arquivo AluraStoreBrasil.ipynb no Google Colab ou Jupyter Notebook
+2. Execute as células na ordem apresentada
+3. As bibliotecas serão importadas automaticamente
+4. Os dados serão carregados via URL
+5. As análises, tabelas e gráficos serão gerados automaticamente
 
-Abra o arquivo AluraStoreBrasil.ipynb no Google Colab ou Jupyter Notebook
 
-Execute as células na ordem apresentada
-
-As bibliotecas serão importadas automaticamente
-
-Os dados serão carregados via URL
-
-As análises, tabelas e gráficos serão gerados automaticamente
 
 🤝 Autor
-
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 Estudante: Eryck Barcelos
+
 
 
 
