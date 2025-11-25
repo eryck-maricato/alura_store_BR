@@ -144,9 +144,11 @@ A análise espacial adicionou valor ao projeto ao revelar padrões que não seri
 
 
 🤝 Autor
+
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 
 Estudante: Eryck Barcelos
+
 
 
 
