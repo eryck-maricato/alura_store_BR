@@ -7,31 +7,31 @@ Este repositório contém a análise completa das quatro lojas da Alura Store Br
 O Sr. João deseja vender uma das quatro lojas da rede para investir em um novo empreendimento.
 Para apoiar essa decisão, realizamos uma análise completa envolvendo:
 
-Faturamento total
+- Faturamento total
 
-Categorias mais e menos vendidas
+- Categorias mais e menos vendidas
 
-Avaliação média dos clientes
+- Avaliação média dos clientes
 
-Ranking de produtos
+- Ranking de produtos
 
-Frete médio
+- Frete médio
 
-Visualizações comparativas
+- Visualizações comparativas
 
-Conclusão fundamentada
+- Conclusão fundamentada
 
 🧠 Tecnologias Utilizadas
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Google Colab
+- Google Colab
 
 🗂️ Estrutura do Repositório
 
@@ -48,28 +48,28 @@ Os dados são carregados diretamente dos arquivos CSV disponibilizados pela Alur
 
 Etapas incluíram:
 
-Padronização das colunas
+- Padronização das colunas
 
-Tratamento de valores nulos
+- Tratamento de valores nulos
 
-Criação de um dicionário para facilitar análises automáticas
+- Criação de um dicionário para facilitar análises automáticas
 
 2. Análises Realizadas
    
 🔹 2.1 Faturamento Total por Loja
 
-O faturamento foi calculado somando o valor de todas as vendas de cada loja.
+- O faturamento foi calculado somando o valor de todas as vendas de cada loja.
 
 🔹 2.2 Categorias mais e menos vendidas
 
-A contagem de categorias foi feita considerando que cada linha representa uma venda.
+- A contagem de categorias foi feita considerando que cada linha representa uma venda.
 Também foi gerada uma pizza consolidada juntando as vendas das quatro lojas.
 
 🔹 2.3 Avaliação Média das Lojas
 
 🔹 2.4 Produtos mais e menos vendidos
 
-Foi gerado um ranking completo para cada loja, além de gráficos horizontais com o Top 5 produtos.
+- Foi gerado um ranking completo para cada loja, além de gráficos horizontais com o Top 5 produtos.
 
 🔹 2.5 Frete Médio
 
@@ -78,15 +78,15 @@ Foi gerado um ranking completo para cada loja, além de gráficos horizontais co
 
 O notebook contém todos os seguintes gráficos:
 
-Gráfico de barras do faturamento total
+- Gráfico de barras do faturamento total
 
-Pizza por loja e pizza consolidada
+- Pizza por loja e pizza consolidada
 
-Gráfico de barras da avaliação média
+- Gráfico de barras da avaliação média
 
-Gráfico de barras do frete médio
+- Gráfico de barras do frete médio
 
-Gráfico horizontal do Top 5 produtos por loja
+- Gráfico horizontal do Top 5 produtos por loja
 
 Todos os gráficos incluem valores numéricos para facilitar interpretação.
 
@@ -95,19 +95,15 @@ Todos os gráficos incluem valores numéricos para facilitar interpretação.
 Com base nas análises combinadas — faturamento, avaliação média, categorias, produtos e frete — concluímos que:
 
 🟦 ➡️ A loja recomendada para venda é a Loja 4.
+
 Justificativas:
 
-Apresenta o menor faturamento total entre as quatro lojas.
-
-Possui avaliação média somente mediana, não se destacando positivamente.
-
-Seu desempenho geral fica atrás das demais lojas.
-
-Mesmo com o frete mais barato, isso não se traduz em volume de vendas significativo.
-
-É a loja com o conjunto mais fraco de métricas considerando toda a operação.
-
-Vender a Loja 4 permite ao Sr. João reduzir perdas operacionais e investir em oportunidades mais lucrativas.
+- Apresenta o menor faturamento total entre as quatro lojas.
+- Possui avaliação média somente mediana, não se destacando positivamente.
+- Seu desempenho geral fica atrás das demais lojas.
+- Mesmo com o frete mais barato, isso não se traduz em volume de vendas significativo.
+- É a loja com o conjunto mais fraco de métricas considerando toda a operação.
+- Vender a Loja 4 permite ao Sr. João reduzir perdas operacionais e investir em oportunidades mais lucrativas.
 
 🌍 7. Extra - Análise Geográfica
 
@@ -186,6 +182,7 @@ As análises, tabelas e gráficos serão gerados automaticamente
 
 Projeto desenvolvido como parte do desafio de Data Science da Alura.
 Estudante: Eryck Barcelos
+
 
 
 
